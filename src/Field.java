@@ -1,0 +1,4 @@
+public enum Field {
+    LINK, TITLE, LENGTH, THUMB, IFRAME,
+    TAGS, ACTOR, ID, CATEGORY, QUALITY
+}
